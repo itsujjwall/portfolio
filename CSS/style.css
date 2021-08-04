@@ -8,6 +8,10 @@
     --secondary: #070606;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-size: 'Poppins', sans-serif;
 }
